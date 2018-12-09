@@ -1,2 +1,5 @@
 Project Intend
 Exploring the collaborative learning approach through GitHub for the attempt of Computational BIM at Design Phase, for analysis, optimisation, automation and data manipulation, by using Blender with Python and Svechok.
+
+Link
+http://python4link.blogspot.com
